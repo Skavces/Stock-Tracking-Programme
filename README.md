@@ -35,7 +35,7 @@ It's developed using **C# (Windows Forms)** and uses **SQLite** as the database 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/skavces/Personnel-Tracking-System.git
+    git clone https://github.com/skavces/Stock-Tracking-Programme.git
     ```
 
 2. Open the solution in Visual Studio.
