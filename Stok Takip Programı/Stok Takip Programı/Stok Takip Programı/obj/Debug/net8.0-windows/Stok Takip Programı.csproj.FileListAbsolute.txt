@@ -1,0 +1,75 @@
+C:\Users\JeDEL\source\repos\Stok Takip Programı\Stok Takip Programı\bin\Debug\net8.0-windows\Stok Takip Programı.exe
+C:\Users\JeDEL\source\repos\Stok Takip Programı\Stok Takip Programı\bin\Debug\net8.0-windows\Stok Takip Programı.deps.json
+C:\Users\JeDEL\source\repos\Stok Takip Programı\Stok Takip Programı\bin\Debug\net8.0-windows\Stok Takip Programı.runtimeconfig.json
+C:\Users\JeDEL\source\repos\Stok Takip Programı\Stok Takip Programı\bin\Debug\net8.0-windows\Stok Takip Programı.dll
+C:\Users\JeDEL\source\repos\Stok Takip Programı\Stok Takip Programı\bin\Debug\net8.0-windows\Stok Takip Programı.pdb
+C:\Users\JeDEL\source\repos\Stok Takip Programı\Stok Takip Programı\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\JeDEL\source\repos\Stok Takip Programı\Stok Takip Programı\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\JeDEL\source\repos\Stok Takip Programı\Stok Takip Programı\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\JeDEL\source\repos\Stok Takip Programı\Stok Takip Programı\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\JeDEL\source\repos\Stok Takip Programı\Stok Takip Programı\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\JeDEL\source\repos\Stok Takip Programı\Stok Takip Programı\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\JeDEL\source\repos\Stok Takip Programı\Stok Takip Programı\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\JeDEL\source\repos\Stok Takip Programı\Stok Takip Programı\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\JeDEL\source\repos\Stok Takip Programı\Stok Takip Programı\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\JeDEL\source\repos\Stok Takip Programı\Stok Takip Programı\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\JeDEL\source\repos\Stok Takip Programı\Stok Takip Programı\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\JeDEL\source\repos\Stok Takip Programı\Stok Takip Programı\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\JeDEL\source\repos\Stok Takip Programı\Stok Takip Programı\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\JeDEL\source\repos\Stok Takip Programı\Stok Takip Programı\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\JeDEL\source\repos\Stok Takip Programı\Stok Takip Programı\obj\Debug\net8.0-windows\Stok Takip Programı.csproj.AssemblyReference.cache
+C:\Users\JeDEL\source\repos\Stok Takip Programı\Stok Takip Programı\obj\Debug\net8.0-windows\Stok_Takip_Programı.Form1.resources
+C:\Users\JeDEL\source\repos\Stok Takip Programı\Stok Takip Programı\obj\Debug\net8.0-windows\Stok_Takip_Programı.Form2.resources
+C:\Users\JeDEL\source\repos\Stok Takip Programı\Stok Takip Programı\obj\Debug\net8.0-windows\Stok_Takip_Programı.Form3.resources
+C:\Users\JeDEL\source\repos\Stok Takip Programı\Stok Takip Programı\obj\Debug\net8.0-windows\Stok_Takip_Programı.Form4.resources
+C:\Users\JeDEL\source\repos\Stok Takip Programı\Stok Takip Programı\obj\Debug\net8.0-windows\Stok_Takip_Programı.Form5.resources
+C:\Users\JeDEL\source\repos\Stok Takip Programı\Stok Takip Programı\obj\Debug\net8.0-windows\Stok_Takip_Programı.form6.resources
+C:\Users\JeDEL\source\repos\Stok Takip Programı\Stok Takip Programı\obj\Debug\net8.0-windows\Stok_Takip_Programı.Form7.resources
+C:\Users\JeDEL\source\repos\Stok Takip Programı\Stok Takip Programı\obj\Debug\net8.0-windows\Stok Takip Programı.csproj.GenerateResource.cache
+C:\Users\JeDEL\source\repos\Stok Takip Programı\Stok Takip Programı\obj\Debug\net8.0-windows\Stok Takip Programı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JeDEL\source\repos\Stok Takip Programı\Stok Takip Programı\obj\Debug\net8.0-windows\Stok Takip Programı.AssemblyInfoInputs.cache
+C:\Users\JeDEL\source\repos\Stok Takip Programı\Stok Takip Programı\obj\Debug\net8.0-windows\Stok Takip Programı.AssemblyInfo.cs
+C:\Users\JeDEL\source\repos\Stok Takip Programı\Stok Takip Programı\obj\Debug\net8.0-windows\Stok Takip Programı.csproj.CoreCompileInputs.cache
+C:\Users\JeDEL\source\repos\Stok Takip Programı\Stok Takip Programı\obj\Debug\net8.0-windows\Stok Tak.205FCB34.Up2Date
+C:\Users\JeDEL\source\repos\Stok Takip Programı\Stok Takip Programı\obj\Debug\net8.0-windows\Stok Takip Programı.dll
+C:\Users\JeDEL\source\repos\Stok Takip Programı\Stok Takip Programı\obj\Debug\net8.0-windows\refint\Stok Takip Programı.dll
+C:\Users\JeDEL\source\repos\Stok Takip Programı\Stok Takip Programı\obj\Debug\net8.0-windows\Stok Takip Programı.pdb
+C:\Users\JeDEL\source\repos\Stok Takip Programı\Stok Takip Programı\obj\Debug\net8.0-windows\Stok Takip Programı.genruntimeconfig.cache
+C:\Users\JeDEL\source\repos\Stok Takip Programı\Stok Takip Programı\obj\Debug\net8.0-windows\ref\Stok Takip Programı.dll
+C:\Users\JeDEL\source\repos\Stok Takip Programı\Stok Takip Programı\obj\Debug\net8.0-windows\Stok_Takip_Programı.Properties.Resources.resources
+C:\Users\JeDEL\Desktop\236502060_Selim Kavaklıçeşme\Stok Takip Programı\Stok Takip Programı\bin\Debug\net8.0-windows\Stok Takip Programı.exe
+C:\Users\JeDEL\Desktop\236502060_Selim Kavaklıçeşme\Stok Takip Programı\Stok Takip Programı\bin\Debug\net8.0-windows\Stok Takip Programı.deps.json
+C:\Users\JeDEL\Desktop\236502060_Selim Kavaklıçeşme\Stok Takip Programı\Stok Takip Programı\bin\Debug\net8.0-windows\Stok Takip Programı.runtimeconfig.json
+C:\Users\JeDEL\Desktop\236502060_Selim Kavaklıçeşme\Stok Takip Programı\Stok Takip Programı\bin\Debug\net8.0-windows\Stok Takip Programı.dll
+C:\Users\JeDEL\Desktop\236502060_Selim Kavaklıçeşme\Stok Takip Programı\Stok Takip Programı\bin\Debug\net8.0-windows\Stok Takip Programı.pdb
+C:\Users\JeDEL\Desktop\236502060_Selim Kavaklıçeşme\Stok Takip Programı\Stok Takip Programı\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\JeDEL\Desktop\236502060_Selim Kavaklıçeşme\Stok Takip Programı\Stok Takip Programı\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\JeDEL\Desktop\236502060_Selim Kavaklıçeşme\Stok Takip Programı\Stok Takip Programı\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\JeDEL\Desktop\236502060_Selim Kavaklıçeşme\Stok Takip Programı\Stok Takip Programı\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\JeDEL\Desktop\236502060_Selim Kavaklıçeşme\Stok Takip Programı\Stok Takip Programı\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\JeDEL\Desktop\236502060_Selim Kavaklıçeşme\Stok Takip Programı\Stok Takip Programı\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\JeDEL\Desktop\236502060_Selim Kavaklıçeşme\Stok Takip Programı\Stok Takip Programı\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\JeDEL\Desktop\236502060_Selim Kavaklıçeşme\Stok Takip Programı\Stok Takip Programı\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\JeDEL\Desktop\236502060_Selim Kavaklıçeşme\Stok Takip Programı\Stok Takip Programı\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\JeDEL\Desktop\236502060_Selim Kavaklıçeşme\Stok Takip Programı\Stok Takip Programı\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\JeDEL\Desktop\236502060_Selim Kavaklıçeşme\Stok Takip Programı\Stok Takip Programı\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\JeDEL\Desktop\236502060_Selim Kavaklıçeşme\Stok Takip Programı\Stok Takip Programı\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\JeDEL\Desktop\236502060_Selim Kavaklıçeşme\Stok Takip Programı\Stok Takip Programı\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\JeDEL\Desktop\236502060_Selim Kavaklıçeşme\Stok Takip Programı\Stok Takip Programı\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\JeDEL\Desktop\236502060_Selim Kavaklıçeşme\Stok Takip Programı\Stok Takip Programı\obj\Debug\net8.0-windows\Stok Takip Programı.csproj.AssemblyReference.cache
+C:\Users\JeDEL\Desktop\236502060_Selim Kavaklıçeşme\Stok Takip Programı\Stok Takip Programı\obj\Debug\net8.0-windows\Stok_Takip_Programı.Form1.resources
+C:\Users\JeDEL\Desktop\236502060_Selim Kavaklıçeşme\Stok Takip Programı\Stok Takip Programı\obj\Debug\net8.0-windows\Stok_Takip_Programı.Form5.resources
+C:\Users\JeDEL\Desktop\236502060_Selim Kavaklıçeşme\Stok Takip Programı\Stok Takip Programı\obj\Debug\net8.0-windows\Stok_Takip_Programı.Form6.resources
+C:\Users\JeDEL\Desktop\236502060_Selim Kavaklıçeşme\Stok Takip Programı\Stok Takip Programı\obj\Debug\net8.0-windows\Stok_Takip_Programı.Form7.resources
+C:\Users\JeDEL\Desktop\236502060_Selim Kavaklıçeşme\Stok Takip Programı\Stok Takip Programı\obj\Debug\net8.0-windows\Stok_Takip_Programı.Properties.Resources.resources
+C:\Users\JeDEL\Desktop\236502060_Selim Kavaklıçeşme\Stok Takip Programı\Stok Takip Programı\obj\Debug\net8.0-windows\Stok Takip Programı.csproj.GenerateResource.cache
+C:\Users\JeDEL\Desktop\236502060_Selim Kavaklıçeşme\Stok Takip Programı\Stok Takip Programı\obj\Debug\net8.0-windows\Stok Takip Programı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JeDEL\Desktop\236502060_Selim Kavaklıçeşme\Stok Takip Programı\Stok Takip Programı\obj\Debug\net8.0-windows\Stok Takip Programı.AssemblyInfoInputs.cache
+C:\Users\JeDEL\Desktop\236502060_Selim Kavaklıçeşme\Stok Takip Programı\Stok Takip Programı\obj\Debug\net8.0-windows\Stok Takip Programı.AssemblyInfo.cs
+C:\Users\JeDEL\Desktop\236502060_Selim Kavaklıçeşme\Stok Takip Programı\Stok Takip Programı\obj\Debug\net8.0-windows\Stok Takip Programı.csproj.CoreCompileInputs.cache
+C:\Users\JeDEL\Desktop\236502060_Selim Kavaklıçeşme\Stok Takip Programı\Stok Takip Programı\obj\Debug\net8.0-windows\Stok Tak.205FCB34.Up2Date
+C:\Users\JeDEL\Desktop\236502060_Selim Kavaklıçeşme\Stok Takip Programı\Stok Takip Programı\obj\Debug\net8.0-windows\Stok Takip Programı.dll
+C:\Users\JeDEL\Desktop\236502060_Selim Kavaklıçeşme\Stok Takip Programı\Stok Takip Programı\obj\Debug\net8.0-windows\refint\Stok Takip Programı.dll
+C:\Users\JeDEL\Desktop\236502060_Selim Kavaklıçeşme\Stok Takip Programı\Stok Takip Programı\obj\Debug\net8.0-windows\Stok Takip Programı.pdb
+C:\Users\JeDEL\Desktop\236502060_Selim Kavaklıçeşme\Stok Takip Programı\Stok Takip Programı\obj\Debug\net8.0-windows\Stok Takip Programı.genruntimeconfig.cache
+C:\Users\JeDEL\Desktop\236502060_Selim Kavaklıçeşme\Stok Takip Programı\Stok Takip Programı\obj\Debug\net8.0-windows\ref\Stok Takip Programı.dll
